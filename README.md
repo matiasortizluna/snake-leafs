@@ -2,6 +2,8 @@
 
 Computer Science Master's degree “Computer Vision” subject project: Application of different filters and active countour model to detect the leaf form and apply Deep Learning Convulotional Neural Network to train a model for classification of the leaf type and disease. By Matias Luna & Rodrigo Martins.
 
+![Uploading Segmentation using Active Countours.png…]()
+
 The organization of the files and order to be run are:
 
 1. Pre-Processing and Segmentation 
