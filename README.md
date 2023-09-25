@@ -2,7 +2,7 @@
 
 Computer Science Master's degree “Computer Vision” subject project: Application of different filters and active countour model to detect the leaf form and apply Deep Learning Convulotional Neural Network to train a model for classification of the leaf type and disease. By Matias Luna & Rodrigo Martins.
 
-![Uploading Segmentation using Active Countours.png…]()
+![Segmentation using Active Countours](https://github.com/matiasortizluna/snake-leafs/assets/64530615/5e2d4498-9db2-4630-932b-5f6be4361fbb)
 
 The organization of the files and order to be run are:
 
