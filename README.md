@@ -57,9 +57,6 @@ Dense Layer: Is a layer that is deeply connected with its preceding layer, which
 
 Dropout Layer: Is layer that is a mask that nullifies the contribution of some neurons towards the next layer and leaves unmodified all others. It basically removes from the some of nodes from the network. They are important in training CNNs because they prevent overfitting on the training data.
 
-# Results
-
-
 # Conclusions
 Active contours has nice features, but only in very specialised datasets, with good control environments and conditions​.
 
